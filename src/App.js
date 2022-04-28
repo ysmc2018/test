@@ -12,7 +12,7 @@ function App() {
   return (
     <div><div className="App">
       <div className="black-nav">
-        <div>개발 Blog</div>
+        <div>리액트에 GA를 심어보자!!</div>
           <hr/>
       </div>
 
