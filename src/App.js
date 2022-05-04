@@ -20,7 +20,7 @@ function App() {
 
     <div className='list'>
     <h3>{ 글제목[0] } <span onClick={() => {따봉변경(따봉+1)}}><span className='emogi'>👍</span></span>{따봉}</h3>
-        <h4><a href="https://map.naver.com/v5/entry/place/1580543297?c=14127644.9197222,4515754.5759100,15,0,0,0,dh&placePath=%3Fentry=plt" onclick="ga('send','event','어떤걸봤나','버튼클릭');">
+        <h4><a href="https://map.naver.com/v5/entry/place/1580543297?c=14127644.9197222,4515754.5759100,15,0,0,0,dh&placePath=%3Fentry=plt" onClick="ga('send','event','어떤걸봤나','버튼클릭');">
           <button className='blog-button'>합정 저스티나</button></a></h4>
           <h4><a href="https://m.place.naver.com/restaurant/1848488870/home">
           <button className='blog-button'>홍대 발코니가든</button></a></h4>
