@@ -29,7 +29,7 @@ function App() {
     </div>
 
     <div className='list'>
-      <h3><a href="https://map.naver.com/v5/search/oktop/place/658074326?placePath=%3Fentry=pll%26from=nx%26fromNxList=true&c=14135261.6441852,4513905.6440083,15,0,0,0,dh">
+      <h3><a href="https://map.naver.com/v5/search/oktop/place/658074326?placePath=%3Fentry=pll%26from=nx%26fromNxList=true&c=14135261.6441852,4513905.6440083,15,0,0,0,dh" onClick="ga('send','event','어떤걸봤나','버튼클릭');">
         <button className='blog-button'>{글제목[1]}</button></a></h3>
         <p>남산타워가 눈앞에 보이는 야경맛집 루프탑! 이집 야경 잘하네!</p>
         <hr/>
